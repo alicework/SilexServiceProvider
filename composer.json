@@ -1,5 +1,5 @@
 {
-    "name": "grom/silex-service-provider",
+    "name": "alicework/silex-service-provider",
     "type": "library",
     "description": "Imagine & KnpSnappy integration for Silex.",
     "keywords": ["silex", "imagine", "snappy", "image", "pdf"],
